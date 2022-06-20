@@ -1,5 +1,4 @@
-var name = prompt("Enter your name: ")
-var height = prompt("Enter your height: ")
-var country = prompt("Enter your country: ")
-
-console.log(`My name is ${name}. I am ${height} tall. I am from {country}.`)
+var name = Sharafa Usman
+var height = "5 feet 11 inches"
+var country = Nigeria
+alert(`My name is ${name}. I am ${height} tall. I am from {country}.`)
